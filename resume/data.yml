@@ -1,0 +1,88 @@
+name:
+  primary: 黄文超
+  secondary: Alfred
+
+origin:
+  year: 1987
+  location: 广东佛山
+
+position: 全栈工程师
+
+about: Hi, my name is John Doe. I"m just about the most boring type of person you could
+       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
+       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
+
+experience:
+- company: 佛山市逸云计算机科技有限公司
+  position: 技术总监
+  timeperiod: 2014年3月 至今
+  description: Programming and watching cute cat videos.
+  website: https://example.com
+
+- company: Company B
+  position: Frontend Developer
+  timeperiod: January 2015 - December 2015
+  description: Fulfillment of extremely important tasks.
+
+- company: Company C
+  position: Trainee
+  timeperiod: March 2014 - December 2014
+  description: Making coffee and baking cookies.
+
+education:
+- degree: Master of Arts
+  timeperiod: March 2012 - December 2013
+  description: Major in Hacking and Computer Penetration, University A, New York, USA.
+  website: https://example.com
+
+- degree: Bachelor of Science
+  timeperiod: March 2009 - December 2011
+  description: Major in Engineering, University B, Los Angeles, USA.
+
+skills:
+- name: HTML5
+  level: 99
+- name: CSS3
+  level: 95
+- name: JavaScript
+  level: 97
+- name: Node.js
+  level: 93
+- name: Angular 2
+  level: 60
+- name: TypeScript
+  level: 80
+- name: ES.Next
+  level: 70
+- name: Docker
+  level: 99
+knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
+  (English and Klingon).
+
+projects:
+- name: best-resume-ever
+  platform: Vue
+  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+  url: https://github.com/salomonelli/best-resume-ever
+
+hobbies:
+- name: Video Games
+  iconClass: fa fa-gamepad
+  url: https://example.com
+
+- name: Drawing
+  iconClass: fa fa-pencil
+  url: https://example.com
+
+contributions:
+- name: best-resume-ever
+  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
+  url: https://github.com/salomonelli/best-resume-ever
+
+contact:
+  email: 57082212@qq.com
+  phone: 15919002005
+  street: 顺德 乐从
+  city: 佛山
+  website: http://www.huangwenchao.com.cn
+  github: fish-ball

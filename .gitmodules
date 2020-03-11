@@ -1,0 +1,3 @@
+[submodule "libs/less-template"]
+	path = libs/less-template
+	url = https://github.com/easecloud/less-template
