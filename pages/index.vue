@@ -55,7 +55,6 @@
               <li>家庭状态：<br />· 已婚，有两个孩子</li>
               <li>职业状态：<br />· 目前处于自由职业者状态，对有良好发展机遇的平台及契合个人属性的岗位感兴趣。</li>
               <li>期望工作地点：<br />· 佛山/广州</li>
-              <li>期望月薪：<br />· 45000 (RMB)</li>
             </ul>
           </div>
         </section>
@@ -354,12 +353,23 @@
             <span class="place">业余做的 ACM 算法比赛的综合平台</span>
           </h3>
           <div class="section-body">
-            <p>工作经历中列出的案例有些由于保密或可公开展示功能有限等原因，在这里仅列举一个标志性的业余项目。
+            <p>工作经历中列出的案例有些由于保密或可公开展示功能有限等原因，在这里仅列举标志性的业余项目。
               这个项目虽然暂时仅有网站端，但是内容用到的技术和架构要点都非常充分，融合了网络爬虫、消息队列、
               Vue/SPA模式前端开发、RESTful后端开发、微信 OAuth 对接等很全面的内容，并且代码开源
               （<a href="https://github.com/actips/">https://github.com/actips/</a> ）。</p>
             <p>功能上主要是实现 ACM 参赛者日常训练的解题报告提交、做题网站的代理登录以及题目、提交结果收集整理等，
               具体可以查看网站 <a href="https://actips.org">http://actips.org</a>。</p>
+          </div>
+        </section>
+        <section class="section">
+          <h3 class="section-title">
+            <span class="duration">python-wechaty</span>
+            <span class="place">wechaty微信机器人（开源项目）</span>
+          </h3>
+          <div class="section-body">
+            <p>wechaty\(<https://github.com/wechaty>\) 是 GitHub 社区的一个优秀的开源项目，为用户使用程序控制微信号提供了一个SDK，
+            本人于2020年加入 wechaty 多语言开发项目组中的 python-wechaty 
+            开发组 <https://github.com/orgs/wechaty/teams/python>。</p>
           </div>
         </section>
       </div>
