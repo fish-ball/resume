@@ -367,9 +367,9 @@
             <span class="place">wechaty微信机器人（开源项目）</span>
           </h3>
           <div class="section-body">
-            <p>wechaty\(<https://github.com/wechaty>\) 是 GitHub 社区的一个优秀的开源项目，为用户使用程序控制微信号提供了一个SDK，
+            <p>wechaty(<a href="https://github.com/wechaty/wechaty/">https://github.com/wechaty/wechaty/</a>) 是 GitHub 社区的一个优秀的开源项目，为用户使用程序控制微信号提供了一个SDK，
             本人于2020年加入 wechaty 多语言开发项目组中的 python-wechaty 
-            开发组 <https://github.com/orgs/wechaty/teams/python>。</p>
+            开发组 <a href="https://github.com/orgs/wechaty/teams/python">https://github.com/orgs/wechaty/teams/python</a>，承担了测试、代码结构优化重构、新功能设计开发等相关内容以及 issue 处理等工作，提交了多个有价值的 PR 。</p>
           </div>
         </section>
       </div>
