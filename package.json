@@ -23,5 +23,10 @@
     "reset-css": "^5.0.1",
     "yaml-loader": "^0.5.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@babel/core": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.44.0"
+  }
 }
